@@ -6,7 +6,7 @@
 ## Быстрый старт
 Необходимо установить библиотеку  
 ```sh
-pip install -i https://test.pypi.org/simple/ maxibot
+pip install maxibot
 ```
 ## Просто эхо-бот
 Необходимо создать файл `echo_bot.py` и добавить в него следующий код.
