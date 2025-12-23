@@ -1,8 +1,13 @@
+### **Библиотека для мессенджера Max**<br>
+Её главная цель — позволить разработчикам использовать знакомые методы и классы из pyTelegramBotAPI (telebot) без изменений. Это позволяет переводить существующего телеграм бота на Max, а также создавать нового бота, заменив import telebot на import maxibot.
+
 [![PyPi Package Version](https://img.shields.io/pypi/v/maxibot.svg)](https://pypi.python.org/pypi/maxibot)
 [![Supported Python versions](https://img.shields.io/pypi/pyversions/maxibot.svg)](https://pypi.python.org/pypi/maxibot)
 [![Documentation Status](https://img.shields.io/badge/docs-passing-green)](https://github.com/mrProduktivnyy/maxibot/tree/main/maxibot/docs)
 [![PyPi downloads](https://img.shields.io/pypi/dm/maxibot.svg)](https://pypi.org/project/maxibot/)
 [![PyPi status](https://img.shields.io/pypi/status/maxibot.svg?style=flat-square)](https://pypi.python.org/pypi/maxibot)
+
+### **Канал связи с разработчиками:** [t.me/maxibot_dev](https://t.me/maxibot_dev)
 
 ## Быстрый старт
 Необходимо установить библиотеку  
